@@ -1,0 +1,20 @@
+{
+  "name": "colordistancefinder",
+  "version": "1.0.0",
+  "description": "Calculates the distances between two colors in rgb format.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdthomp/ColorDistanceFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdthomp/ColorDistanceFinder/issues"
+  },
+  "homepage": "https://github.com/pdthomp/ColorDistanceFinder#readme"
+}
