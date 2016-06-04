@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/pdthomp/ColorDistanceFinder.git"
   },
-  "author": "",
+  "author": "Philip Thompson",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pdthomp/ColorDistanceFinder/issues"

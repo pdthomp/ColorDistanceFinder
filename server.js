@@ -6,13 +6,11 @@ var port = 3000;
 var server = http.createServer((req, res) => {
 	res.statusCode = 200;
 	res.setHeader('Content-Type', 'text/plain');
-	res.end('hellooo');
+	res.end('hello');
 
 	// url = require('url');
 	// var url_parts = url.parse(request.url, true);
 	// var query = url_parts.query;
-
-
 
 });
 
